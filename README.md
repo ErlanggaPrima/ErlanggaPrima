@@ -5,5 +5,7 @@
 - 👯 I’m looking to collaborate on GitHub
 - ⚡ Fun fact: Ambitious to learn education about technology (include coding)
 - 📲 How to reach me: 
-   - Instagram - https://www.instagram.com/erlangga.prima/
-   - LinkedIn - https://www.linkedin.com/in/erlangga-mohamad-prima-prasetya-310763213/
+   - Instagram : [@erlangga.prima
+](https://www.instagram.com/erlangga.prima/)
+
+   - LinkedIn   : [ErlanggaPrima](https://www.linkedin.com/in/erlangga-mohamad-prima-prasetya-310763213/)
